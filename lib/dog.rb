@@ -16,3 +16,5 @@ class Dog
     @breed = "Mutt"
   end
 end
+
+Fido = Dog.new("Pug")
